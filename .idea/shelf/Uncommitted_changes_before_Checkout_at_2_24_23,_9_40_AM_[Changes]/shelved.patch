@@ -1,0 +1,18 @@
+Index: my-first-web-page.html
+===================================================================
+diff --git a/my-first-web-page.html b/my-first-web-page.html
+deleted file mode 100644
+--- a/my-first-web-page.html	(revision d6534e6609071554ffc5a1f9eb92090f4c9170c4)
++++ /dev/null	(revision d6534e6609071554ffc5a1f9eb92090f4c9170c4)
+@@ -1,11 +0,0 @@
+-<!DOCTYPE html>
+-<html>
+-<head>
+-    <title>My First Web Page</title>
+-</head>
+-<body>
+-<h1>Username: hm485</h1>
+-<h2>Course Name: Intro To Website Development (IS117) </h2>
+-<h2>Course Section: 002 </h2>
+-</body>
+-</html>

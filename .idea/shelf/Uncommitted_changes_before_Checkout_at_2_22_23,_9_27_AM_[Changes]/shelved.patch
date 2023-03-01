@@ -1,0 +1,19 @@
+Index: my-first-web-page.html
+===================================================================
+diff --git a/my-first-web-page.html b/my-first-web-page.html
+deleted file mode 100644
+--- a/my-first-web-page.html	(revision 74a565ca926fbbddac59c2aa83b50d528b836bca)
++++ /dev/null	(revision 74a565ca926fbbddac59c2aa83b50d528b836bca)
+@@ -1,11 +0,0 @@
+-<!DOCTYPE html>
+-<html>
+-<head>
+-  <title>My First Web Page</title>
+-</head>
+-<body>
+-<h1>My First Web Page</h1>
+-<h2>Harsh Mistry</h2>
+-<h3>IS117-002</h3>
+-</body>
+-</html>
+\ No newline at end of file

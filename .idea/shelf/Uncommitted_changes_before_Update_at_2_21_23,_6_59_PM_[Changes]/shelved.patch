@@ -1,0 +1,74 @@
+Index: ../IS117002/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../IS117002/.idea/modules.xml b/../IS117002/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1677023120193)
++++ b/../IS117002/.idea/modules.xml	(date 1677023120193)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/IS117002.iml" filepath="$PROJECT_DIR$/.idea/IS117002.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: ../IS117002/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../IS117002/.idea/vcs.xml b/../IS117002/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1677023120190)
++++ b/../IS117002/.idea/vcs.xml	(date 1677023120190)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../IS117002/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../IS117002/.idea/.gitignore b/../IS117002/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1677023120188)
++++ b/../IS117002/.idea/.gitignore	(date 1677023120188)
+@@ -0,0 +1,5 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
+Index: ../IS117002/.idea/IS117002.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../IS117002/.idea/IS117002.iml b/../IS117002/.idea/IS117002.iml
+new file mode 100644
+--- /dev/null	(date 1677023120185)
++++ b/../IS117002/.idea/IS117002.iml	(date 1677023120185)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="WEB_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/temp" />
++      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
++      <excludeFolder url="file://$MODULE_DIR$/tmp" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
